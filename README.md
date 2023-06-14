@@ -16,7 +16,7 @@
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/CANVA-BLACK?style=for-the-badge&logo=Canva&color=ff7480" /></a>
 </div>
   
-<br><br>
+<br>
   
 <div align="left">
 
@@ -24,13 +24,21 @@
 
   class MandyCyber:
 
-    def __init__(self):
-      👧🏽 self.name = "Amanda Rodriques"
-      🧚🏽‍♀️ self.pronouns = "she/her"
-      📔 self.education = "Northeastern University '26"
-      💻 self.major = "Cybersecurity"
-      ✏️ self.minor = "Writing"
+    def __init__(self):                                      
+      👧🏽 self.name = "Amanda Rodriques"                      #  ---------------------------------------------------
+      🧚🏽‍♀️ self.pronouns = "she/her"                           # | "A queer, Black, STEM-loving girl from an island  |
+      📔 self.education = "Northeastern University '26"      # | that may (or may not) show up on your map."       |
+      💻 self.major = "Cybersecurity"                        # | - WHO AM I                                        |
+      ✏️ self.minor = "Writing"                              #  ---------------------------------------------------
   
+  
+    def work_experience(self):
+      current = {                                            #  ---------------------------------------------------
+        "RecordedFuture": "Data Science Intern",             # | "I've had the pleasure, and continue to have the  |
+        "HackBeanPot": "Tech Team Member",                   # |  pleasure of working with some amazing organiza-  |
+        "Northeastern": "TA - Fundamentals of CompSci 1"     # |  tions and individuals."                          |
+      }                                                      # |  - WHAT I'VE DONE                                 |
+      return current                                         #  ---------------------------------------------------
 
   ```
 
