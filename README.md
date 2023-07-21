@@ -36,9 +36,9 @@
       current = {                                            #  ---------------------------------------------------
         "RecordedFuture": "Data Science Intern",             # | "I've had the pleasure, and continue to have the  |
         "HackBeanPot": "Tech Team Member",                   # |  pleasure of working with some amazing organiza-  |
-        "Northeastern": "TA - Fundamentals of CompSci 1"     # |  tions and individuals."                          |
-      }                                                      # |  - WHAT I'VE DONE                                 |
-      return current                                         #  ---------------------------------------------------
+       }                                                     # |  tions and individuals."                          |
+      return current                                         # |  - WHAT I'VE DONE                                 |
+                                                             #  ---------------------------------------------------
 
   ```
 
