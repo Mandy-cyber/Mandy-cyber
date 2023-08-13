@@ -35,7 +35,7 @@
     def work_experience(self):
       current = {                                            #  ---------------------------------------------------
         "RecordedFuture": "Data Science Intern",             # | "I've had the pleasure, and continue to have the  |
-        "HackBeanPot": "Tech Team Member",                   # |  pleasure of working with some amazing organiza-  |
+        "HackBeanPot": "Software Engineer",                  # |  pleasure of working with some amazing organiza-  |
        }                                                     # |  tions and individuals."                          |
       return current                                         # |  - WHAT I'VE DONE                                 |
                                                              #  ---------------------------------------------------
