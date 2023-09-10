@@ -34,11 +34,11 @@
   
     def work_experience(self):
       current = {                                            #  ---------------------------------------------------
-        "RecordedFuture": "Data Science Intern",             # | "I've had the pleasure, and continue to have the  |
+        "Khoury College": "Fundamentals of CompSci II TA",   # | "I've had the pleasure, and continue to have the  |
         "HackBeanPot": "Software Engineer",                  # |  pleasure of working with some amazing organiza-  |
-       }                                                     # |  tions and individuals."                          |
-      return current                                         # |  - WHAT I'VE DONE                                 |
-                                                             #  ---------------------------------------------------
+        "Northeastern": "Writing Center Tutor"               # |  tions and individuals."                          |
+      }                                                      # |  - WHAT I'VE DONE                                 |
+      return current                                         #  ---------------------------------------------------
 
   ```
 
