@@ -8,6 +8,7 @@
 <div id="skills-icons" align="center">
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/HTML-BLACK?style=for-the-badge&logo=HTML5&color=84e3c8" /></a>
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/PYTHON-BLACK?style=for-the-badge&logo=Python&color=a8e6cf" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/C-BLACK?style=for-the-badge&logo=C&color=9FE2BF" /></a>
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/JAVA-BLACK?style=for-the-badge&logo=Java&color=dcedc1" /></a>
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/TYPESCRIPT-BLACK?style=for-the-badge&logo=Typescript&color=ffd3b6" /></a>
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/CSS-BLACK?style=for-the-badge&logo=CSS3&color=fbdf9d" /></a>
@@ -27,14 +28,14 @@
     def __init__(self):                                      
       👧🏽 self.name = "Amanda Rodriques"                      #  ---------------------------------------------------
       🧚🏽‍♀️ self.pronouns = "she/her"                           # | "A queer, Black, STEM-loving girl from an island  |
-      📔 self.education = "Northeastern University '26"      # | that may (or may not) show up on your map."       |
-      💻 self.major = "Cybersecurity"                        # | - WHO AM I                                        |
-      ✏️ self.minor = "Writing"                              #  ---------------------------------------------------
-  
+      🇯🇲 self.home = "Kingston, Jamaica"                     # | that may (or may not) show up on your map."       |
+      📔 self.education = "Northeastern University '26"      # | - WHO AM I                                        |
+      💻 self.major = "Cybersecurity"                        #  ---------------------------------------------------
+                         
   
     def work_experience(self):
       current = {                                            #  ---------------------------------------------------
-        "Khoury College": "Fundamentals of CompSci II TA",   # | "I've had the pleasure, and continue to have the  |
+        "Recorded Future": "Data Science Intern",            # | "I've had the pleasure, and continue to have the  |
         "HackBeanPot": "Software Engineer",                  # |  pleasure of working with some amazing organiza-  |
         "Northeastern": "Writing Center Tutor"               # |  tions and individuals."                          |
       }                                                      # |  - WHAT I'VE DONE                                 |
