@@ -34,11 +34,11 @@
                          
   
     def work_experience(self):
-      current = { "Typeface AI": "Product Security Intern" }
+      current = { "Northeastern University": "Teaching Assistant" }
       partial_past = {                                       #  ---------------------------------------------------
         "Netflix": "Software Engineer Intern",               # | "I've had the pleasure, and continue to have the  |
         "HackBeanPot": "Software Engineer",                  # |  pleasure of working with some amazing organiza-  |
-        "Northeastern": "Writing Center Tutor"               # |  tions and individuals."                          |
+        "Typeface": "Product Security Intern"                # |  tions and individuals."                          |
       }                                                      # |  - WHAT I'VE DONE                                 |
       return current.update(past)                            #  ---------------------------------------------------
 
