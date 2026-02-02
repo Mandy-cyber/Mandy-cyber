@@ -40,7 +40,7 @@
         "HackBeanPot": "Software Engineer",                  # |  pleasure of working with some amazing organiza-  |
         "Typeface": "Product Security Intern"                # |  tions and individuals."                          |
       }                                                      # |  - WHAT I'VE DONE                                 |
-      return current.update(past)                            #  ---------------------------------------------------
+      return current.update(partial_past)                    #  ---------------------------------------------------
 
   ```
 
