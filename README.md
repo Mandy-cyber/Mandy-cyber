@@ -1,16 +1,47 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=6a994e&height=300&section=header&text=Mandy%20Rodriques&fontSize=90)
+<div align="center">
+  <img src="https://github.com/Mandy-cyber/Mandy-cyber/assets/67931161/042fa0cd-e4bd-4cd6-8769-b69e5cf0cc38" height="300px"/>
+</div>
 
-[![Mandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mandy-cyber)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<!-- <hr> -->
 
-### :computer_mouse: Programming Languages
+<div id="skills-icons" align="center">
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/HTML-BLACK?style=for-the-badge&logo=HTML5&color=84e3c8" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/PYTHON-BLACK?style=for-the-badge&logo=Python&color=a8e6cf" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/C-BLACK?style=for-the-badge&logo=C&color=9FE2BF" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/JAVA-BLACK?style=for-the-badge&logo=Java&color=dcedc1" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/TYPESCRIPT-BLACK?style=for-the-badge&logo=Typescript&color=ffd3b6" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/CSS-BLACK?style=for-the-badge&logo=CSS3&color=fbdf9d" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/DR RACKET-BLACK?style=for-the-badge&logo=Racket&color=ffaaa5" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/NOTION-BLACK?style=for-the-badge&logo=Notion&color=ff8b94" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/CANVA-BLACK?style=for-the-badge&logo=Canva&color=ff7480" /></a>
+</div>
+  
+<br>
+  
+<div align="left">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+  ```python
 
+  class MandyCyber:
 
-## 🎷Contact Me!
-<a href="https://www.linkedin.com/in/amanda-rodriques">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" weight="50" target="_blank"/>
-</a>
+    def __init__(self):                                      
+      👧🏽 self.name = "Amanda Rodriques"                      #  ---------------------------------------------------
+      🧚🏽‍♀️ self.pronouns = "she/her"                           # | "A queer, Black, STEM-loving girl from an island  |
+      🇯🇲 self.home = "Kingston, Jamaica"                     # | that may (or may not) show up on your map."       |
+      📔 self.education = "Northeastern University '26"      # | - WHO AM I                                        |
+      💻 self.major = "Cybersecurity"                        #  ---------------------------------------------------
+                         
+  
+    def work_experience(self):
+      current = { "Northeastern University": "Teaching Assistant" }
+      partial_past = {                                       #  ---------------------------------------------------
+        "Netflix": "Software Engineer Intern",               # | "I've had the pleasure, and continue to have the  |
+        "HackBeanPot": "Software Engineer",                  # |  pleasure of working with some amazing organiza-  |
+        "Typeface": "Product Security Intern"                # |  tions and individuals."                          |
+      }                                                      # |  - WHAT I'VE DONE                                 |
+      return current.update(partial_past)                    #  ---------------------------------------------------
+
+  ```
+
+</div>
